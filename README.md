@@ -1,6 +1,6 @@
 ## Owen Murphy
 
-Self-taught programmer in Birmingham, Alabama (relocating to San Francisco, working mostly in Rust and TypeScript.
+Self-taught programmer in Birmingham, Alabama (relocating to San Francisco), working mostly in Rust and TypeScript.
 Most of what I build runs locally: inference and retrieval on hardware you own, with the
 parts that are usually hidden — the forward pass, the retrieval sources, the tool calls an
 agent makes — exposed so they can be inspected.
